@@ -1,0 +1,6 @@
+email2image is a php source that creates an image from text,
+specifically email address
+
+NOTE
+Fonts are not bundled due to license issue and file size,
+but you can add your favorite fonts and modify source.
